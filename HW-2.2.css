@@ -1,0 +1,29 @@
+h1.main-header {
+	font-size: 56px;
+	color: #365f91;
+	font-family: serif;
+}
+
+p {
+	font-size: 20px;
+}
+
+p.lead strong {
+	text-decoration: underline;
+}
+
+ul.works-list {
+	color: #365f91;
+	list-style-type: square;
+}
+
+ul.works-list ul {
+	list-style-type: circle;
+}
+
+blockquote {
+	background-image: url("https://netology-university.bitbucket.io/wm/resourses/images/wm-2-2-bg.jpg");
+	color: #494429;
+	font-style: italic;
+	font-family: serif;
+}
